@@ -1,0 +1,9 @@
+Build.PL
+Changes
+lib/MooX/File/ConfigDir.pm
+MANIFEST			This list of files
+MANIFEST.SKIP
+t/00-load.t
+t/01-simple.t
+META.yml
+META.json

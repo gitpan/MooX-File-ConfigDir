@@ -1,0 +1,27 @@
+---
+abstract: 'Moo eXtension for File::ConfigDir'
+author:
+  - 'Jens Rehsack <rehsack@cpan.org>'
+build_requires:
+  Test::More: 0.90
+configure_requires:
+  Module::Build: 0.40
+dynamic_config: 1
+generated_by: 'Module::Build version 0.4007, CPAN::Meta::Converter version 2.132620'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: MooX-File-ConfigDir
+provides:
+  MooX::File::ConfigDir:
+    file: lib/MooX/File/ConfigDir.pm
+    version: 0.001
+requires:
+  File::ConfigDir: 0.006
+  Moo::Role: 1.003000
+  namespace::autoclean: 0
+resources:
+  license: http://dev.perl.org/licenses/
+  repository: https://github.com/perl5-utils/MooX-File-ConfigDir
+version: 0.001
