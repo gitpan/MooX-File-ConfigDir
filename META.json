@@ -35,7 +35,7 @@
    "provides" : {
       "MooX::File::ConfigDir" : {
          "file" : "lib/MooX/File/ConfigDir.pm",
-         "version" : "0.001"
+         "version" : "0.002"
       }
    },
    "release_status" : "stable",
@@ -47,5 +47,5 @@
          "url" : "https://github.com/perl5-utils/MooX-File-ConfigDir"
       }
    },
-   "version" : "0.001"
+   "version" : "0.002"
 }

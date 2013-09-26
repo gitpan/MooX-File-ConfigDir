@@ -16,7 +16,7 @@ name: MooX-File-ConfigDir
 provides:
   MooX::File::ConfigDir:
     file: lib/MooX/File/ConfigDir.pm
-    version: 0.001
+    version: 0.002
 requires:
   File::ConfigDir: 0.006
   Moo::Role: 1.003000
@@ -24,4 +24,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: https://github.com/perl5-utils/MooX-File-ConfigDir
-version: 0.001
+version: 0.002
